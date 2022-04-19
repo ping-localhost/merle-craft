@@ -1,5 +1,6 @@
 baseURL = "/"
 theme = ["hugo-cloak-email", "hugo-theme-bootstrap"]
+disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
 
 # hostname (and path) to the root eg. http://spf13.com/
 contentdir = "content"
@@ -13,7 +14,7 @@ port = "80"
 title = "Merle Craft - Wiki"
 
 # Copyright
-copyright = "Made with joy by Mitchell."
+copyright = "Copyright © 2022 - Made with joy by Mitchell"
 
 # Language
 languageCode = "en-EN"
@@ -31,15 +32,15 @@ enableEmoji = true
 enableGitInfo = true
 
 [mediaTypes]
-[mediaTypes."application/manifest+json"]
-suffixes = ["json"]
+    [mediaTypes."application/manifest+json"]
+        suffixes = ["json"]
 
 [outputFormats]
-[outputFormats.MANIFEST]
-name = "manifest"
-baseName = "manifest"
-mediaType = "application/manifest+json"
+    [outputFormats.MANIFEST]
+        name = "manifest"
+        baseName = "manifest"
+        mediaType = "application/manifest+json"
 
 [outputs]
-home = ["HTML", "RSS", "JSON", "MANIFEST"]
+    home = ["HTML", "JSON", "MANIFEST"]
 

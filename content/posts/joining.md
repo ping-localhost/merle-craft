@@ -16,9 +16,13 @@ Learn how to join Merle's amazing Minecraft server.
 
 <!--more-->
 
-- **Server**: merlecraft.ga (or 15.235.17.245)
-- Game Version: 1.18.2, Java version only.
-- Difficulty: Easy with PvP disabled
-- Server: Semi-Vanilla & Paper
-- Server Location: USA.
-- Plugins: [Click Here](/posts/plugins)
+# Server
+- **IP**: play.merlecraft.ga (or 15.235.17.245)
+- **Port**: 25565 (required for Bedrock) 
+- **Configuration**: Vanilla using Paper
+- **Location**: USA
+
+# Game
+- **Game Version**: 1.18.2, Java + Bedrock.
+- **Difficulty**: Easy with PvP disabled
+- **Plugins**: [Click Here]({{< ref "/posts/plugins" >}})

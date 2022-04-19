@@ -1,8 +1,8 @@
-# titleSeparator = "|" # Title separator. Default to "-".
-
-description = "An extreme fast, responsive and feature-rich blog theme for Hugo"
-keywords = "Hugo, Bootstrap, Blog Theme"
+description = "A quick and simple Minecraft server for Merle's Twitch/Discord community"
+keywords = "Merle, Twitch, Minecraft, Server"
 # images = ["site-feature-image.jpg"]
+
+titleSeparator = "|" # Title separator. Default to "-".
 
 # metaRobots = "noindex, nofollow" # Default value for Meta Tag "robots"
 # metaRobots = "" # disable Meta Tag "robots"
@@ -10,8 +10,6 @@ keywords = "Hugo, Bootstrap, Blog Theme"
 logo = "images/logo.jpeg" # Logo image. Default to "images/logo.webp".
 # logo = false # Disable Logo
 brand = "Merle Craft"
-topline = "Wiki"
-footline = "code with <i class='fa fa-heart'></i>"
 
 palette = "blue" # Default palette. Optional. You'll need to clear the browser cache after modifying this.
 palettes = ["blue", "blue-gray", "indigo"] # Available palettes. Default to ALL.
@@ -20,9 +18,10 @@ palettes = ["blue", "blue-gray", "indigo"] # Available palettes. Default to ALL.
 # color = "dark" # light, dark or dynamic. Default to dynamic.
 
 # fullWidth = true # Full width.
-# fixedHeader = false # Turn on/off fixed header.
+fixedHeader = false # Turn on/off fixed header.
 
-# dateFormat = "Jan 2, 2006"
+# Set date format to be used
+dateFormat = "2006-01-02"
 
 # Google Adsense
 # googleAdsense = ""
@@ -35,10 +34,10 @@ palettes = ["blue", "blue-gray", "indigo"] # Available palettes. Default to ALL.
 # diagram = true
 # socialShare = false # disable social network sharing
 # searchBar = false # disable search-bar
-comment = false # disable comments
+# comment = false # disable comments
 poweredBy = false # Whether to show powered by.
 
-readingTime = false # Whether to display the reading time.
+# readingTime = false # Whether to display the reading time.
 # postDate = false # Whether to display the post date in the post meta section.
 
 # featuredPostCount = 10 # The number of featured posts shown in sidebar. Turn off by setting it to false.
@@ -48,7 +47,7 @@ readingTime = false # Whether to display the reading time.
 # tagCount = 10 # The number of tags shown in sidebar. Turn off by setting it to false.
 # seriesCount = 20 # The number of series shown in sidebar. Turn off by setting it to false.
 # taxonomyPaginate = 5 # Default to 10.
-taxonomyPostCount = 20 # The number of taxonomy's posts. Turn off by setting it to false.
+taxonomyPostCount = false # The number of taxonomy's posts. Turn off by setting it to false.
 countTaxonomyPosts = true # Count posts of taxonomy.
 
 # sidebarTaxonomies = ["categories", "tags", "series"] # The order of taxonomies on the sidebar.
@@ -118,6 +117,10 @@ viewer = true # Image Viewer
     # distance = 100
     # useExtendedSearch = true
 
+[utterances]
+  repo = "ping-localhost/merle-craft"
+  label = "comment" # Optional.
+
 [pwa]
   [pwa.manifest]
     # name = "" # Default to site title.
@@ -128,9 +131,9 @@ viewer = true # Image Viewer
     # background_color = ""
 
     # Icons
-    # [[pwa.manifest.icons]]
-    #   sizes = "96x96"
-    #   src = "/images/icons/icon-96x96.png"
-    # [[pwa.manifest.icons]]
-    #   sizes = "144x144"
-    #   src = "/images/icons/icon-144x144.png"
+     [[pwa.manifest.icons]]
+       sizes = "96x96"
+       src = "/images/icons/icon-96x96.png"
+     [[pwa.manifest.icons]]
+       sizes = "144x144"
+       src = "/images/icons/icon-144x144.png"
