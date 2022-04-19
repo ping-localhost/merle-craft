@@ -1,8 +1,7 @@
 baseURL = "/"
 theme = ["hugo-cloak-email", "hugo-theme-bootstrap"]
-disableKinds = ["RSS", "taxonomy", "taxonomyTerm"]
+disableKinds = ["RSS"]
 
-# hostname (and path) to the root eg. http://spf13.com/
 contentdir = "content"
 layoutdir = "layouts"
 publishdir = "public"
@@ -11,7 +10,7 @@ baseurl = "/"
 port = "80"
 
 # Site title
-title = "Merle Craft - Wiki"
+title = "MerleCraft"
 
 # Copyright
 copyright = "Copyright © 2022 - Made with joy by Mitchell"

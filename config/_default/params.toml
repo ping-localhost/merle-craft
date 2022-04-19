@@ -9,12 +9,11 @@ titleSeparator = "|" # Title separator. Default to "-".
 
 logo = "images/logo.jpeg" # Logo image. Default to "images/logo.webp".
 # logo = false # Disable Logo
-brand = "Merle Craft"
+brand = "MerleCraft"
 
 palette = "blue" # Default palette. Optional. You'll need to clear the browser cache after modifying this.
 palettes = ["blue", "blue-gray", "indigo"] # Available palettes. Default to ALL.
 # palettes = [] # Disable palette switcher.
-
 # color = "dark" # light, dark or dynamic. Default to dynamic.
 
 # fullWidth = true # Full width.
@@ -64,17 +63,13 @@ titleCase = true # Capitalized title.
 viewer = true # Image Viewer
 
 # backgroundImage = ['/images/bg-light.png', '/images/bg-dark.png']
-# rss = "home" # link the RSS button to homepage all the times.
-
-[sidebar]
-  # fixed = true
 
 [codeBlock]
   # maxLines = 8
   lineNos = false # true/false represents that show/hide the line numbers by default.
 
 [post]
-  # excerpt = "description"
+  excerpt = "description"
   # excerptMaxLength = 120
   # copyright = false # Whether to display copyright section on each post.
   # plainifyExcerpt = false # Format excerpt in HTML if false.

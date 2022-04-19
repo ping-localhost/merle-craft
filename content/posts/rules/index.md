@@ -2,13 +2,9 @@
 type = "docs"
 title = "Rules"
 date = 2022-04-19T11:11:09+02:00
-description = "Do not even think about breaking these"
+description = "Do not even think about breaking these!"
 toc = false
 +++
-
-If you need clarification on the rules please ask a staff member.
-
-<!--more-->
 
 We understand this list is detailed, this is to provide the best experience for everyone in our community. We hope you can understand.
 
@@ -29,16 +25,16 @@ We understand this list is detailed, this is to provide the best experience for 
 - See this page for more info for land claiming.
 - Do not mine at spawn/market claims for resources. Please explore and mine.
 - Mods on your game are allowed with exceptions. No cheating, hacks, or exploits period. Optifine, Mini maps, Litematica are allowed
-- No cheating, griefing, x-ray, stealing, abuse, glitching, duping, or exploits of any kind.You will be banned. However, TNT dupers are acceptable as players do not gain any TNT blocks through operating the machine.
+- No cheating, griefing, x-ray, stealing, abuse, glitching, duping, or exploits of any kind. You will be banned.
 - Do not go out of your way to "test" or "find" glitches, exploits, or alike on our server. You will be banned.
 - Pranks must be agreed upon beforehand.
 - No lagging the server on purpose.
 - Respect public areas, this includes spawn, areas not claimed by you and other players.
-- You are welcome to build a small house, small shop, or small decorative builds at spawn as long as it fits the theme. Server Theme: Lush Desert Oasis
+- You are welcome to build a small house, small shop, or small decorative builds at spawn as long as it fits the theme.
 - Building anywhere else in any theme is allowed, spawn is the only place that has a specific build theme.
 - Do not beg for items.
 
-# Farms & AFking
+# Farms & AFk-ing
 
 - AFK Farms / Redstone Farms are allowed.
 - Be aware our server runs on Paper, so it will alter the Redstone mechanics (e.g prevents duping/lag).

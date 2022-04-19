@@ -2,13 +2,9 @@
 type = "docs"
 title = "Plugins"
 date = 2022-04-19T09:24:09+02:00
-description = "What plugins are we using?"
+description = "All the plugins we use in a simple spot."
 toc = false
 +++
-
-All the plugins we use in a simple spot.
-
-<!--more-->
 
 This list is extensive. Please do not hesitate to ask for help.
 

@@ -12,10 +12,6 @@ series = []
 images = []
 +++
 
-Learn how to join Merle's amazing Minecraft server.
-
-<!--more-->
-
 # Server
 - **IP**: play.merlecraft.ga (or 15.235.17.245)
 - **Port**: 25565 (required for Bedrock) 

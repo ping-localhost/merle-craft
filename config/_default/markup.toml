@@ -12,23 +12,23 @@
   tabWidth = 2
 
 [goldmark]
-[goldmark.extensions]
-definitionList = true
-footnote = true
-linkify = true
-strikethrough = true
-table = true
-taskList = true
-typographer = true
+  [goldmark.extensions]
+    definitionList = true
+    footnote = true
+    linkify = true
+    strikethrough = true
+    table = true
+    taskList = true
+    typographer = true
 
 [goldmark.parser]
-autoHeadingID = true
-autoHeadingIDType = 'github'
-[markup.goldmark.parser.attribute]
-block = false
-title = true
+  autoHeadingID = true
+  autoHeadingIDType = 'github'
+  [markup.goldmark.parser.attribute]
+    block = false
+    title = true
 
 [goldmark.renderer]
-hardWraps = false
-unsafe = true
-xhtml = false
+  hardWraps = false
+  unsafe = true
+  xhtml = false
