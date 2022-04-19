@@ -13,9 +13,13 @@ This list is extensive. Please do not hesitate to ask for help.
 - [DiscordSRV](https://docs.discordsrv.com/)
 - [EssentialsX](https://essentialsx.net/)
 - [GSit](https://www.spigotmc.org/resources/gsit-modern-sit-seat-and-chair-lay-and-crawl-plugin-1-14-x-1-18-x.62325/)
+- [Geyser](https://wiki.geysermc.org/geyser/) + [Floodgate](https://wiki.geysermc.org/floodgate/)
+  - Allows Bedrock players to join this server
 - [Harbor](https://www.spigotmc.org/resources/harbor-a-sleep-enhancement-plugin.60088/)
+- [InteractiveChat](https://www.spigotmc.org/resources/interactivechat-show-items-inventory-in-chat-custom-chat-keywords-bungee-velocity-support.75870/)
 - [LuckPerms](https://luckperms.net/) + [Vault](https://www.spigotmc.org/resources/vault.34315/)
-- [Plan](https://www.spigotmc.org/resources/plan-player-analytics.32536/) ([view data](http://play.merlecraft.ga:3677/))
+- [Plan](https://www.spigotmc.org/resources/plan-player-analytics.32536/)
+  - [View the data](http://play.merlecraft.ga:3677/)
 
 ---
 
