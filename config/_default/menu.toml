@@ -1,0 +1,11 @@
+[[main]]
+  name = "Links"
+  identifier = "links"
+  weight = 40
+  pre = '<i class="fas fa-fw fa-chevron-circle-down"></i>'
+[[main]]
+  name = "Discord"
+  identifier = "discord"
+  parent = "links"
+  url = "https://discord.gg/ggKddZjrP3"
+  weight = 1

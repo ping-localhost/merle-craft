@@ -1,0 +1,45 @@
+baseURL = "/"
+theme = ["hugo-cloak-email", "hugo-theme-bootstrap"]
+
+# hostname (and path) to the root eg. http://spf13.com/
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+builddrafts = false
+baseurl = "/"
+port = "80"
+
+# Site title
+title = "Merle Craft - Wiki"
+
+# Copyright
+copyright = "Made with joy by Mitchell."
+
+# Language
+languageCode = "en-EN"
+
+# Metadata format
+# "yaml", "toml", "json"
+metaDataFormat = "toml"
+
+# Pagination
+paginate = 10
+paginatePath = "page"
+
+enableRobotsTXT = true
+enableEmoji = true
+enableGitInfo = true
+
+[mediaTypes]
+[mediaTypes."application/manifest+json"]
+suffixes = ["json"]
+
+[outputFormats]
+[outputFormats.MANIFEST]
+name = "manifest"
+baseName = "manifest"
+mediaType = "application/manifest+json"
+
+[outputs]
+home = ["HTML", "RSS", "JSON", "MANIFEST"]
+

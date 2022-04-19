@@ -1,0 +1,2 @@
+post = "/:year/:month/:day/:slug/"
+code = "/:slug/"

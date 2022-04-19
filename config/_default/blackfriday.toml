@@ -1,0 +1,7 @@
+angledQuotes = true
+fractions = false
+latexDashes = true
+plainIdAnchors = true
+extensions = []
+extensionmask = []
+hrefTargetBlank = true
