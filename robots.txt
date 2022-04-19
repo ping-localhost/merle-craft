@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: wiki.merlecraft.ga/sitemap.xml
+Sitemap: https://wiki.merlecraft.ga/sitemap.xml
