@@ -1,13 +1,19 @@
 +++
 type = "docs"
-title = "Plugins"
+title = "Details"
 date = 2022-04-19T09:24:09+02:00
-description = "All the plugins we use in a simple spot."
+description = "Server details + plugins we use in a simple spot."
 toc = false
 +++
 
-This list is extensive. Please do not hesitate to ask for help.
+# Server details
+- **IP**: play.merlecraft.ga (or 15.235.17.245)
+- **Port**: 25565 (required for Bedrock)
+- **Difficulty**: Easy with PvP disabled
+- **Game Version**: 1.18.2
+- **Location**: USA
 
+# Plugins
 - [Chunky](https://www.spigotmc.org/resources/chunky.81534/)
 - [CoreProtect](https://www.spigotmc.org/resources/coreprotect.8631/) ([tutorial](https://www.youtube.com/watch?v=JwijCiueZ3Y))
 - [DiscordSRV](https://docs.discordsrv.com/)
