@@ -4,7 +4,6 @@
       "a",
       "article",
       "aside",
-      "blockquote",
       "body",
       "button",
       "div",
@@ -133,7 +132,6 @@
       "flex-column",
       "flex-grow-1",
       "flex-lg-grow-0",
-      "float-end",
       "footer",
       "form-check",
       "form-check-input",
@@ -215,7 +213,6 @@
       "py-1",
       "py-3",
       "recent-posts",
-      "related-posts",
       "rounded",
       "rounded-circle",
       "rounded-pill",
@@ -268,8 +265,7 @@
       "templateMissingKeywords",
       "templateNoResults",
       "templateResult",
-      "templateStat",
-      "to-join-merles-server-there-are-some-pre-requites"
+      "templateStat"
     ]
   }
 }
