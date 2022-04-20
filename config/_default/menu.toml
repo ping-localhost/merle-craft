@@ -1,19 +1,12 @@
 [[main]]
-  name = "Links"
-  identifier = "links"
-  weight = 40
-  pre = '<i class="fas fa-fw fa-chevron-circle-down"></i>'
-[[main]]
   name = "Discord"
   identifier = "discord"
   url = "https://discord.gg/ggKddZjrP3"
-  parent = "links"
-  weight = 1
+  weight = 40
   pre = '<i class="fab fa-discord"></i> '
 [[main]]
-  name = "Map"
-  identifier = "Map"
-  url = "http://play.merlecraft.ga:9028/"
-  parent = "links"
-  weight = 2
-  pre = '<i class="fas fa-fw fa-map-marker-alt"></i> '
+  name = "Plan"
+  identifier = "plan"
+  url = "http://play.merlecraft.ga:3677/"
+  weight = 50
+  pre = '<i class="fas fa-link"></i> '
