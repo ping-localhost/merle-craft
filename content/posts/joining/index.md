@@ -23,22 +23,24 @@ As of right now, you must have one of the following Discord roles to join the se
 ## Java Edition
 
 - The IP for Merle's Minecraft server is `play.merlecraft.ga` (or you can use `15.235.17.245`).
-- Start Minecraft, click Multiplayer and click Add Server. There should be two boxes, Server Name and IP Address. 
+- Start Minecraft, click `Multiplayer` and click `Add Server`. There should be two boxes, `Server Name` and `IP Address`. 
 - The server name does not matter a bit. Call it what you like. 
-- Now press fill in the box for IP and confirm your entries by clicking done.
+- Now  fill in the box for IP and confirm your entries by clicking done.
 - You will be taken back to the server list. The server should appear on it with green bars on the right.
-- Click the server and then click Join Server.
+- Click the server and then click `Join Server`.
 - Have fun!
 
 ## Bedrock Edition
 
 - The IP for Merle's Minecraft server is `play.merlecraft.ga` (or you can use `15.235.17.245`) and the port is `25565`.
-- Start Minecraft, click Multiplayer and click Add Server. There should be two boxes, Server Name and IP Address.
+- Start Minecraft, click `Play` and then `Servers`. Scroll down and click `Add Server`. There should be three boxes, `Server Name` and `Server IP` and `Port`.
 - The server name does not matter a bit. Call it what you like.
-- Now press fill in the box for IP and the port. Confirm your entries by clicking done.
-- You will be taken back to the server list. The server should appear on it with green bars on the right.
-- Click the server and then click Join Server.
+- Now fill in the box for IP and the port one after. Confirm your entries by clicking play.
 - Have fun!
+
+### Consoles
+
+If you are on a console, [following the instructions here](https://wiki.geysermc.org/geyser/using-geyser-with-consoles/) and use `play.merlecraft.ga` (or `15.235.17.245`) with port `25565`.
 
 ### Differences
 
