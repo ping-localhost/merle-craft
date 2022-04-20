@@ -20,7 +20,7 @@ As of right now, you must have one of the following Discord roles to join the se
 - Twitch Mods
 - Twitch Subscriber (any tier)
 
-## Java Edition
+## Minecraft: Java Edition
 
 - The IP for Merle's Minecraft server is `play.merlecraft.ga` (or you can use `15.235.17.245`).
 - Start Minecraft, click `Multiplayer` and click `Add Server`. There should be two boxes, `Server Name` and `IP Address`. 
@@ -30,7 +30,11 @@ As of right now, you must have one of the following Discord roles to join the se
 - Click the server and then click `Join Server`.
 - Have fun!
 
-## Bedrock Edition
+## Minecraft: Bedrock Edition
+
+_Minecraft: Bedrock Edition_ refers to the multi-platform versions of Minecraft developed by Mojang Studios, Xbox Game Studios, and SkyBox Labs and based on the Bedrock codebase. [The differences between Java and Bedrock explained](https://docs.microsoft.com/en-us/minecraft/creator/documents/differencesbetweenbedrockandjava).
+
+### Android, iOS, iPadOS and Minecraft for Windows
 
 - The IP for Merle's Minecraft server is `play.merlecraft.ga` (or you can use `15.235.17.245`) and the port is `25565`.
 - Start Minecraft, click `Play` and then `Servers`. Scroll down and click `Add Server`. There should be three boxes, `Server Name` and `Server IP` and `Port`.
@@ -38,13 +42,11 @@ As of right now, you must have one of the following Discord roles to join the se
 - Now fill in the box for IP and the port one after. Confirm your entries by clicking play.
 - Have fun!
 
-### Consoles
+### Switch, PS4 and Xbox
 
-If you are on a console, [following the instructions here](https://wiki.geysermc.org/geyser/using-geyser-with-consoles/) and use `play.merlecraft.ga` (or `15.235.17.245`) with port `25565`.
+If you are on these specific consoles, Microsoft does not allow you to add a server to the server list. You'll have to find a [solution that works for you here](https://wiki.geysermc.org/geyser/using-geyser-with-consoles/) and use the details above to connect. 
 
-### Differences
-
-[The differences between Java and Bedrock explained](https://docs.microsoft.com/en-us/minecraft/creator/documents/differencesbetweenbedrockandjava). To put it simply, if you are using anything other than PC, you are using Bedrock. If you are on PC and using `Minecraft for Windows` it's Bedrock, otherwise, you are using the Java edition.
+The easiest solution is probably [emulating a LAN game on your network](https://wiki.geysermc.org/geyser/using-geyser-with-consoles/#alternative-methods) via [your PC](https://github.com/jhead/phantom), [iOS device](https://apps.apple.com/app/bedrocktogether/id1534593376) or [Android device](https://play.google.com/store/apps/details?id=pl.extollite.bedrocktogetherapp) ([alternative](https://play.google.com/store/apps/details?id=com.smokiem.mcserverconnector)). 
 
 ## DiscordSRV
 
