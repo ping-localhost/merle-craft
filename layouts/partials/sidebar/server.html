@@ -21,11 +21,11 @@
     }
 
     let playerList = '';
-    if (response.players.sample.length > 0) {
-      playerList = '<br>- ' + response.players.sample[0].name;
-    }
+    response.players.sample.forEach((player) => {
+      playerList += '<br>- ' + player.name;
+    })
 
-    $rest.innerHTML = '<b>Players Online:</b> ' + response.players.online + ' / ' + response.players.max + playerList;
-    $rest.innerHTML += '<br/><b>Version:</b> ' + response.version.name;
+    $rest.innerHTML = '<b>Version:</b> ' + response.version.name;
+    $rest.innerHTML += '<br/><b>Players Online:</b> ' + response.players.online + ' / ' + response.players.max + playerList;
   })
 </script>
