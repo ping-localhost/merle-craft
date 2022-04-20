@@ -1,0 +1,31 @@
+<section class="server-status row card component">
+    <div class="card-header d-flex justify-content-between align-items-center">
+        <h2><a href="https://mcsrvstat.us/server/play.merlecraft.ga" target="_blank">play.merlecraft.ga</a></h2>
+        <picture><img src="https://api.minetools.eu/favicon/play.merlecraft.ga/25565" alt="Server icon"></picture>
+    </div>
+    <div class="card-body">
+        <div id="server-details">Loading ...</div>
+    </div>
+</section>
+
+<script async>
+  const url = "https://api.minetools.eu/ping/play.merlecraft.ga/25565";
+  document.addEventListener("DOMContentLoaded", async () => {
+    const $rest = document.querySelector('#server-details');
+
+    // Get the data
+    const response = await fetch(url).then(response => response.json());
+    if (response.error) {
+      $rest.innerHTML = 'The server is currently offline <i class="fas fa-skull-crossbones"></i>';
+      return false;
+    }
+
+    let playerList = '';
+    if (response.players.sample.length > 0) {
+      playerList = '<br>- ' + response.players.sample[0].name;
+    }
+
+    $rest.innerHTML = '<b>Players Online:</b> ' + response.players.online + ' / ' + response.players.max + playerList;
+    $rest.innerHTML += '<br/><b>Version:</b> ' + response.version.name;
+  })
+</script>
