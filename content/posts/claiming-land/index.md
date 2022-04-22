@@ -6,9 +6,9 @@ description = "How to protect your slice of heaven"
 toc = true
 +++
 
-When claiming land you must have a minimum of a 9×9 area of blocks selected. Anything less is too small and will not be accepted when attempting to claim. All claims go from Bedrock to the Sky Limit.
+When claiming land you must have a minimum of 50 blocks selected. Anything less is too small and will not be accepted when attempting to claim. All claims go from Bedrock to the Sky Limit.
 
-If, somehow, after reading this guide you are still unable to claim and protect your land, then please message a staff member and we will do our best to help you!
+If, somehow, after reading this guide you are still unable to claim and protect your land, then please message a staff member, and we will do our best to help you!
 
 ## Claiming a piece of land
 
@@ -32,9 +32,9 @@ This section is going to walk you through the steps necessary to simply create a
 
 ## Claiming extra blocks
 
-In order to expand your claim, you need to have the claim blocks to do so. Each block you claim counts for a single claim block. However, it does not count the vertical blocks (Y:0-256). You are able to view your remaining claim blocks by holding the Golden Shovel and looking in chat.
+In order to expand your claim, you need to have the claim blocks to do so. Each block you claim counts for a single claim block. However, it does not count the vertical blocks. You are able to view your remaining claim blocks by holding the Golden Shovel and looking in chat.
 
-Gaining claim blocks is as simple as playing on the servers! For every hour you play you gain 500 claim blocks
+Gaining claim blocks is as simple as playing on the servers! For every hour you play you gain 200 claim blocks and you start with 500.
 
 ## Managing your claim
 
