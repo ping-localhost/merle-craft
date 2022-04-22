@@ -1,7 +1,7 @@
 +++
 type = "docs"
 title = "Voice Chat"
-date = 2022-04-18T11:11:09+02:00
+date = 2022-04-18T00:00:00+02:00
 description = "Instructions on how to use the Discord powered proximity voice chat"
 toc = false
 +++

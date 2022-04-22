@@ -1,9 +1,8 @@
 +++
 type = "docs"
 title = "Joining"
-date = 2022-04-19T11:24:09+02:00
+date = 2022-04-22T00:00:00+02:00
 description = "How to join Merle's MC server?"
-featured = true
 toc = true
 pinned = true
 categories = []
@@ -63,3 +62,11 @@ Just message it the code you received before, in this case `3519` and your accou
 
 **Note**: If you are unable to message the bot, make sure that you allow direct messages from server members, otherwise you cannot send it a message. 😅
 > ![Make sure you allow others to DM you](images/privacy.png)
+
+## Server details
+- **IP**: `play.merlecraft.ga` (or `15.235.17.245`)
+- **Port**: `25565`
+- **Difficulty**: Easy with PvP disabled
+- **World border**: 8500 blocks wide
+- **Game Version**: 1.18.2
+- **Location**: USA

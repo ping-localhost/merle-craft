@@ -1,7 +1,7 @@
 +++
 type = "docs"
 title = "Rules"
-date = 2022-04-19T11:11:09+02:00
+date = 2022-04-21T00:00:00+02:00
 description = "Do not even think about breaking these!"
 toc = false
 +++
