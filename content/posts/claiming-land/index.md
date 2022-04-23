@@ -14,7 +14,7 @@ If, somehow, after reading this guide you are still unable to claim and protect 
 
 This section is going to walk you through the steps necessary to simply create a claim for your base. There will be information further below in order to manage/expand your claim in the future.
 
-- Craft a golden shovel to start claiming, make sure to have a stick as well, so you can see the boundaries of a claim.
+- Get a golven shovel and stick by typing `/kits claim`. The golden shovel is used for claiming, the stick will show you the boundaries of a claim if you right-click the ground.
 - Have a base or area marked out for where you want it to be claimed. Placing a block at each corner of your desired claim usually helps with the process!
 - Place the Golden Shovel in your hand and find your way to one corner of your desired claim area. Then right-click this corner and a Diamond Block should appear. This is only a visual, don't bother trying to break it.
 - Head over to the opposite corner of your desired claim. Do not un-equip or click with the Golden Shovel during this time. Once you are at the opposite corner, right-click the block. If done correctly, you should receive a message saying your claim has been created and there should be Gold and Glowstone Blocks around the boundary. If not, read chat and find out why it didn't work!

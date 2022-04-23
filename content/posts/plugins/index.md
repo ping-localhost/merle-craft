@@ -92,6 +92,14 @@ To prevent duplicate names between Java and Bedrock, Bedrock players have the pr
 
 A permission plugin for Minecraft servers used by the server admins to control what features players can use by creating groups and assigning permissions.
 
+### [Maintenance](https://www.spigotmc.org/resources/maintenance-bungee-and-spigot-support-1-8-1-18.40699/)
+
+This plugin lets us activate a maintenance mode on our server, which will prevent players without a permission to join the server. This way the staff can do maintenance without users interfering.
+
+### [ServerListPlus](https://www.spigotmc.org/resources/serverlistplus.241/)
+
+Allows us to show a nicer server appearance in your client's server list.
+
 ## World Management
 
 ### [Chunky](https://www.spigotmc.org/resources/chunky.81534/)
