@@ -15,9 +15,10 @@ images = []
 
 As of right now, you must have one of the following Discord roles to join the server:
 - Admin
-- Mods
-- Twitch Mods
+- Moderators
+- Twitch Moderators
 - Twitch Subscriber (any tier)
+- Discord Server Booster
 
 ## Minecraft: Java Edition
 
