@@ -22,7 +22,7 @@ As of right now, you must have one of the following Discord roles to join the se
 
 ## Minecraft: Java Edition
 
-- The IP for Merle's Minecraft server is `play.merlecraft.ga` (or you can use `15.235.17.245`).
+- The IP for Merle's Minecraft server is `play.merlecraft.ga` (or you can use `51.178.105.151`).
 - Start Minecraft, click `Multiplayer` and click `Add Server`. There should be two boxes, `Server Name` and `IP Address`. 
 - The server name does not matter a bit. Call it what you like. 
 - Now  fill in the box for IP and confirm your entries by clicking done.
@@ -36,7 +36,7 @@ _Minecraft: Bedrock Edition_ refers to the multi-platform versions of Minecraft 
 
 ### Android, iOS, iPadOS and Minecraft for Windows
 
-- The IP for Merle's Minecraft server is `play.merlecraft.ga` (or you can use `15.235.17.245`) and the port is `25565`.
+- The IP for Merle's Minecraft server is `play.merlecraft.ga` (or you can use `51.178.105.151`) and the port is `25565`.
 - Start Minecraft, click `Play` and then `Servers`. Scroll down and click `Add Server`. There should be three boxes, `Server Name` and `Server IP` and `Port`.
 - The server name does not matter a bit. Call it what you like.
 - Now fill in the box for IP and the port one after. Confirm your entries by clicking play.
@@ -65,7 +65,7 @@ Just message it the code you received before, in this case `3519` and your accou
 > ![Make sure you allow others to DM you](images/privacy.png)
 
 ## Server details
-- **IP**: `play.merlecraft.ga` (or `15.235.17.245`)
+- **IP**: `play.merlecraft.ga` (or `51.178.105.151`)
 - **Port**: `25565`
 - **Difficulty**: Easy with PvP disabled
 - **World border**: 8500 blocks wide
