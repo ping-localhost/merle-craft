@@ -69,5 +69,5 @@ Just message it the code you received before, in this case `3519` and your accou
 - **Port**: `25565`
 - **Difficulty**: Easy with PvP disabled
 - **World border**: 8500 blocks wide
-- **Game Version**: 1.18.2
+- **Game Version**: 1.18 and upwards
 - **Location**: USA
